@@ -7,7 +7,7 @@
 
               "continent": "Europe",
               "country": "France",
-	      "country": "Russia",
+	      "countru": "Russia",
               "capital": "Paris",
               "bool": true
           },
@@ -38,7 +38,7 @@
 			 		{
 			 			"continent": "South America",
                   		"country": "Brazil",
-				"country": "Poland",
+				"countri": "Poland",
                   		"capital": "Brasilia"
 			 		}
 			 	]
